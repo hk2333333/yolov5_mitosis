@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+ <folder>icpr2014</folder>
+ <filename>H04_07Ad.png</filename>
+ <object_num>3</object_num>
+ <size>
+  <width>1663</width>
+  <height>1485</height>
+  <depth>3</depth>
+ </size>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>1203</xmin>
+   <ymin>1023</ymin>
+   <xmax>1263</xmax>
+   <ymax>1083</ymax>
+  </bndbox>
+ </object>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>1084</xmin>
+   <ymin>65</ymin>
+   <xmax>1144</xmax>
+   <ymax>125</ymax>
+  </bndbox>
+ </object>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>863</xmin>
+   <ymin>527</ymin>
+   <xmax>923</xmax>
+   <ymax>587</ymax>
+  </bndbox>
+ </object>
+</annotation>

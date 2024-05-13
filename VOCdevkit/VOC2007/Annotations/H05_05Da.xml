@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+ <folder>icpr2014</folder>
+ <filename>H05_05Da.png</filename>
+ <object_num>3</object_num>
+ <size>
+  <width>1663</width>
+  <height>1485</height>
+  <depth>3</depth>
+ </size>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>389</xmin>
+   <ymin>349</ymin>
+   <xmax>449</xmax>
+   <ymax>409</ymax>
+  </bndbox>
+ </object>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>288</xmin>
+   <ymin>242</ymin>
+   <xmax>348</xmax>
+   <ymax>302</ymax>
+  </bndbox>
+ </object>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>950</xmin>
+   <ymin>1007</ymin>
+   <xmax>1010</xmax>
+   <ymax>1067</ymax>
+  </bndbox>
+ </object>
+</annotation>

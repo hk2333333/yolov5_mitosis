@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+ <folder>icpr2014</folder>
+ <filename>H03_05Aa.png</filename>
+ <object_num>2</object_num>
+ <size>
+  <width>1663</width>
+  <height>1485</height>
+  <depth>3</depth>
+ </size>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>1138</xmin>
+   <ymin>850</ymin>
+   <xmax>1198</xmax>
+   <ymax>910</ymax>
+  </bndbox>
+ </object>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>442</xmin>
+   <ymin>1006</ymin>
+   <xmax>502</xmax>
+   <ymax>1066</ymax>
+  </bndbox>
+ </object>
+</annotation>

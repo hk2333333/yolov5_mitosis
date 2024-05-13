@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+ <folder>icpr2014</folder>
+ <filename>H04_05Bc.png</filename>
+ <object_num>2</object_num>
+ <size>
+  <width>1663</width>
+  <height>1485</height>
+  <depth>3</depth>
+ </size>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>1030</xmin>
+   <ymin>678</ymin>
+   <xmax>1090</xmax>
+   <ymax>738</ymax>
+  </bndbox>
+ </object>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>574</xmin>
+   <ymin>828</ymin>
+   <xmax>634</xmax>
+   <ymax>888</ymax>
+  </bndbox>
+ </object>
+</annotation>

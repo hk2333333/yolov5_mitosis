@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+ <folder>icpr2014</folder>
+ <filename>H03_00Ba.png</filename>
+ <object_num>1</object_num>
+ <size>
+  <width>1663</width>
+  <height>1485</height>
+  <depth>3</depth>
+ </size>
+ <object>
+  <name>mitosis</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>686</xmin>
+   <ymin>257</ymin>
+   <xmax>746</xmax>
+   <ymax>317</ymax>
+  </bndbox>
+ </object>
+</annotation>
